@@ -27,6 +27,7 @@
         <version>6.10</version>
         <scope>test</scope>
     </dependency>    
+	    </dependencies>
     ```
 
 3.  Create a new Java class under `src/main/java` with package name `com.mahendra`
